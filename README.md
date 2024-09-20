@@ -9,3 +9,6 @@ data analysis  for CIB (ตำรวจสอบสวนกลาง)
 6. python programing
 7. gennerative ai
 8. prompt
+
+#image 
+![Alt text](https://iabac.org/blog/uploads/images/202312/image_870x_6583cca581b3e.jpg)
