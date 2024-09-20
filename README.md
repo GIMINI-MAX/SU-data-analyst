@@ -1,4 +1,4 @@
-# SU-data-analyst
+# SU-data-analysis
 data analysis  for CIB (ตำรวจสอบสวนกลาง)
 
 1. spreadsheets (google sheets)
